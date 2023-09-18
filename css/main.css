@@ -1,0 +1,27 @@
+.nav-shadow {
+    box-shadow: 0 20px 25px 0px rgba(0, 0, 0, 0.1);}
+.header {
+    background-color: #ffffff;
+    padding: 3px;
+    text-align: center;
+     }
+.main-body {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.center-teks {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;}
+.main-color {
+    background-color: #90a3d8;
+}
+.footer-color{
+    background-color: #3b67e0;
+}
+.text-white{
+    color: #ffffff;
+}
+.card-color{
+    background-color: #90a3d8;;
+}
